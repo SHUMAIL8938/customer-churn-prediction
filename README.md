@@ -117,5 +117,4 @@ Top churn drivers on the real dataset: Contract type → Tenure → Monthly Char
 
 ---
 
-## Author
-Built as a portfolio project for Amazon ML Summer School application.
+
