@@ -1,0 +1,9 @@
+# Python virtual environment
+churn/
+
+# Trained models
+models/
+
+# Python cache
+__pycache__/
+*.pyc
